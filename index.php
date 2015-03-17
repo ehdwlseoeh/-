@@ -1,7 +1,4 @@
 <?php
-<<<<<<< HEAD
-phpinfo();
-=======
 $user_agent = $_SERVER['HTTP_USER_AGENT'];
 ?>
 <!doctype html>
@@ -48,4 +45,3 @@ $os .= ' 입니다.';
 <p><?=$os?></p>
 </body>
 </html>
->>>>>>> 16704f5e94bedda4240a53e72f4a740be8d0920a
